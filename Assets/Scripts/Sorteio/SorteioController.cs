@@ -100,12 +100,12 @@ public class SorteioController : MonoBehaviour
     private int ChooseWinner() {
         int winner = Random.Range(0, namesSorteio.Length);
         statusSorteio[winner] = 1;
-        Debug.Log(namesSorteio[winner]);
+        //Debug.Log(namesSorteio[winner]);
         return winner;
     }
 
     public void NextStep() {
-        Debug.Log("porra meu");
+        //Debug.Log("porra meu");
         ChooseRandomLoser();
         UpdateNamesSorteioUI();
     }
