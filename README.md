@@ -1,6 +1,7 @@
 # Sorteio da Alavanca
 
 - Author: Master Exploder (Converting Minds)
+- Interactive Giveaway game with huge humor aesthetics.
 - Project created rushing in 3 hours.
 - Created as a joke game for my Twitch subscribers.
 
